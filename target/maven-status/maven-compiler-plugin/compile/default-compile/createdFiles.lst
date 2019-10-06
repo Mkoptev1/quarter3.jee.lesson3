@@ -1,0 +1,10 @@
+ru\geekbrains\controllers\ProductServlet.class
+ru\geekbrains\controllers\AboutServlet.class
+ru\geekbrains\controllers\MainServlet.class
+ru\geekbrains\controllers\OrderServlet.class
+ru\geekbrains\controllers\CatalogServlet.class
+ru\geekbrains\repositories\ProductRepository.class
+ru\geekbrains\entities\Product.class
+ru\geekbrains\controllers\CartServlet.class
+ru\geekbrains\controllers\HeaderFooterFilter.class
+ru\geekbrains\listener\ContextListener.class
